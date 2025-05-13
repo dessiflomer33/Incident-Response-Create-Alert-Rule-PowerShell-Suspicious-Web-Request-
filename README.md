@@ -104,8 +104,6 @@ Follow the **NIST 800-161: Incident Response Lifecycle**:
 1. **Validate Incident**:
    - Assign it to yourself and set the status to **Active** ✅.
 
-![Screenshot 2025-01-07 135609](https://github.com/user-attachments/assets/f1c4ba25-0a90-4924-86b9-1e87f25031f6)
-
 2. **Investigate**:
    - Review logs and entity mappings 🗒️.
    - Check PowerShell commands:
